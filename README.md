@@ -10,7 +10,7 @@ If you want to try this 'game', follow these steps:
 - clone the repository.
 - in the root of this folder, type 'make'.
 - type ./cub3D maps/c.cub (for example)
-- a window is opened, you can move around the map with W,A,S,D and you can look left and right with the arrow keys
+- a window is opened, you can move around the map with W,A,S,D and you can look left and right with the arrow keys. 
 
 ## Make maps
 You can also try other maps, see the maps folder for more examples. Some of them don't work on purpose, to test errors.
