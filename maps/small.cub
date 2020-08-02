@@ -1,0 +1,21 @@
+R 2000 840
+NO ./pics/brownstone.png
+
+WE ./pics/colorstone.png
+
+F 217,139,115
+
+EA ./pics/wood.png
+
+SO ./pics/fadedredbrick.png
+
+C               227,85,155
+
+S  ./pics/barrel.png
+
+111111
+1E0001
+111101
+  11011
+  10021
+  11111

@@ -1,0 +1,15 @@
+C 80,155,155
+R 300 16384
+NO ./pics/mc_oak_planks.png
+WE ./pics/yellowbrick.png
+F 217,139,115
+EA ./pics/eagle.png
+SO ./pics/m os  s   y.png
+
+S ./pics/pillar.png
+111111
+1E0001
+111101
+  11011
+  10021
+  11111

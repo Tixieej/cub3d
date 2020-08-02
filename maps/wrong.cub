@@ -1,0 +1,25 @@
+R 1000 3000
+
+NO ./pics/mc_oak_planks.png
+
+C 200,190,120
+
+SO ./pics/fadedredbrick.png
+
+WE ./pics/yellowbrick.png
+
+EA ./pics/brownstone.png
+
+S ./pics/barrel.png
+
+F 217,139,115
+
+C 227,190,120
+
+
+111111
+121021
+1N0011
+110001
+120121
+111111
