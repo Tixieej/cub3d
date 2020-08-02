@@ -8,9 +8,13 @@ This works on most Apple computers. It doesn't work on Windows and Linux.
 
 If you want to try this 'game', follow these steps:
 - clone the repository.
-- in the root of this folder, type 'make'.
-- type ./cub3D maps/c.cub (for example)
+- in the root of this folder, type `make`.
+- type `./cub3D maps/c.cub` (for example)
 - a window is opened, you can move around the map with W,A,S,D and you can look left and right with the arrow keys. 
+
+You can also make a screenshot with `--save` as third argument, for example: `./cub3D maps/c.cub --save`
+
+<img src="./screenshot.bmp">
 
 ## Make maps
 You can also try other maps, see the maps folder for more examples. Some of them don't work on purpose, to test errors.
@@ -35,7 +39,7 @@ You can even make your own map, the extension should be '.cub'. Make sure to inc
   You can give a path to a png of a sprite, this will appear as an item in the game.
 ### A map.
 This is not just one line, but it is a map of the maze you can walk through. A 1 stands for a wall, 0 for walkable space, 2 for items/sprites. Make sure to surround the walkable space with walls.
-You also need to specify a starting position for the player, this is the letter N, S, W of E somewhere in the map.
+You also need to specify a starting position for the player, this is the letter N, S, W or E somewhere in the map.
 Example:
 ```
 111111
