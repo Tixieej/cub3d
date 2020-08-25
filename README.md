@@ -1,5 +1,5 @@
 # cub3d
-<h3>This is a codam project.</h3>
+<h3>This is a Codam project.</h3>
 cub3d is based on Wolfenstein 3D. You can play Wolfenstein 3D here: http://users.atw.hu/wolf3d/
 
 
